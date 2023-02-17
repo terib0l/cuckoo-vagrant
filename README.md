@@ -2,7 +2,7 @@
 
 ## Environment
 
-[](images/environment.png)
+![env](images/environment.png)
 
 ## Set-up
 
