@@ -10,11 +10,14 @@
 
 1. `git clone `
 1. `vagrant up`
+1. **It seems like**
+  * you need to update ubuntu 18.04 itself and reboot
+  * if you wanna drag a file from vm to host, you need to install VBoxGuestAdditions
 
 > On cuckoo host
 
 1. `git clone https://github.com/terib0l/cuckoo-vm.git`
-1. `sh install.sh`
+1. `bash install.sh`
 1. `cuckoo`
 1. `cuckoo web`
 1. goto localhost:8000
